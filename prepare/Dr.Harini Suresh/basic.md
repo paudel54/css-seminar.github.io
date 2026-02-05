@@ -3,7 +3,7 @@
 ## My expectations
 
 #### What type of talk to you expect? (categorize your expectations on at least two dimensions)
- expect the talk to prioritise understanding how we can design a framework for responsible AI. While AI, especially large language models, has been rapidly adopted, how responsible are these models in terms of fairness?
+I expect the talk to prioritise understanding how we can design a framework for responsible AI. While AI, especially large language models, has been rapidly adopted, how responsible are these models in terms of fairness?
 #### What about this talk do you think will be most useful to you?
 I am more curious on how the participatory design creates an meaningful application. Apart from this, I aim to understand what the dataset looks like in this research. Will it be thematic?
 

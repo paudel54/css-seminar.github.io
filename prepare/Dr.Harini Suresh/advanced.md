@@ -1,5 +1,4 @@
 # <Speaker/Date> Preparation
-
 ## My expectations
 
 <!-- 
